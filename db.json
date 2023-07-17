@@ -1,0 +1,9 @@
+{
+  "CounterData": {
+    "counter": 0
+  },
+  "AuthData": {
+    "isLoggedIn": false,
+    "userEmail": null
+  }
+}
